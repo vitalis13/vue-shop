@@ -1,6 +1,6 @@
 import { createStore } from "vuex";
 
-import commonActions from "./actions/actions";
+import actions from "./actions/actions";
 import apiRequests from "./actions/api-requests";
 import mutations from "./mutations/mutations";
 import getters from "./getters/getters";
@@ -15,5 +15,7 @@ export default createStore({
   },
   mutations,
   actions,
-  getters
+  getters,
+  apiRequests,
+  
 });

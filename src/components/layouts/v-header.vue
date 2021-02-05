@@ -53,7 +53,7 @@ export default {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: $green-bg;
+  background: #26ae68;
   padding: 16px;
   position: fixed;
   width: 100%;

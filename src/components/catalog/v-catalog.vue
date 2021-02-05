@@ -167,7 +167,7 @@ export default {
     position: fixed;
     top: 80px;
     right: 10px;
-    padding: $padding * 2;
+    padding: 16px;
     border: solid 1px #aeaeae;
     background: #ffffff;
   }
